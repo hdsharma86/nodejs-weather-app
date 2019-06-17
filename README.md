@@ -4,9 +4,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Demo : https://nodejs-weather-app-hdsharma86.herokuapp.com
 
 ### How do I get set up? ###
 
